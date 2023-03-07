@@ -62,7 +62,7 @@ window.onload = async () => {
     customElem = ''
     list.innerHTML = ''
 
-    await createList(8)
+    await createList(6)
 
     let listItems = document.querySelectorAll('.dd__item')
 
